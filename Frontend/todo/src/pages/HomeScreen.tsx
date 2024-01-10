@@ -1,3 +1,6 @@
+
+import React from 'react'
+
 const HomeScreen = () => {
   return (
     <div className="h-[calc(100vh-80px)] bg-white w-full flex justify-center items-center flex-col">
