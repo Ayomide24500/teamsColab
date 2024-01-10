@@ -1,6 +1,6 @@
-import React from 'react'
-import { Route, RouterProvider } from 'react-router-dom'
-import  { mainApp }  from './Router/mainRouter'
+
+import { RouterProvider } from "react-router-dom";
+import { mainRouter } from "./Router/mainRouter";
 
 const App = () => {
   return (
@@ -10,4 +10,4 @@ const App = () => {
   )
 }
 
-export default App
+export default App;
